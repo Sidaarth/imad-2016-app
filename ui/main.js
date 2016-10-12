@@ -13,7 +13,7 @@ request.onreadystateexchange = function() {
     if(request.readyState == XMLHttpRequest.DONE){
         //take some action.
         if(request.statuse == 200){
-            var counter = request.responseText
+            var counter = request.responseText;
   var span = document.getElementById('count');
   span.innerHTML = counter.toString();
         }
