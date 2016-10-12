@@ -21,14 +21,16 @@ var articles = {
                 This content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first article
             </p>`
 },
-'article-two':{title:'Article-Two|Sid',
+'article-two':{
+    title:'Article-Two|Sid',
   heading: 'Article Two',
   date:'10 sep,2016',
   content:   `<p>
                 This content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first articleThis content is my first article
             </p>`
             },
-'article-three':{title:'Article-Three|Sid',
+'article-three':{
+    title:'Article-Three|Sid',
   heading: 'Article Three',
   date:'15 sep,2016',
   content:   `<p>
